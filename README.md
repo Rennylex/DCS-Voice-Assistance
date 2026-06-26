@@ -1,5 +1,5 @@
 ﻿# DCS Voice Assist
-# Proudly presented by RennyLex
+## Proudly presented by RennyLex
 A small local voice-control helper for DCS on Windows. It uses Windows' built-in `System.Speech` recognition and sends function-key input to the active DCS window.
 
 ## Voice commands
